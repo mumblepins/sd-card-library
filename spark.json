@@ -1,7 +1,7 @@
 {
-  "name": "sd-card-library",
+  "name": "sd-card-library-(photon)",
   "author": "Daniel Sullivan <mumblepins@gmail.com>",
   "license": "GPL v3",
   "version": "0.0.1",
-  "description": "SD Card Library (forked from https://github.com/technobly/SparkCore-SD)"
+  "description": "SD Card Library compatible with Particle Photon(forked from https://github.com/technobly/SparkCore-SD)"
 }

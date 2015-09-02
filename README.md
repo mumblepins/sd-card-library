@@ -1,11 +1,9 @@
-SparkCore-SD
-============
+SparkPhoton-SD
+==============
 Web IDE library V0.0.1
-Forked from https://github.com/technobly/SparkCore-SD by Daniel Sullivan (mumblepins)
+Forked from https://github.com/technobly/SparkCore-SD by Daniel Sullivan (mumblepins). This fork was edited following the instructions in this forum post solution.
 
-An Implementation of the Arduino/Sparkfun SD Card Library for the Spark Core
-
-This might be tricky to build online due to the number of files required.  I have not tried to set it up online.  Using the Spark-CLI tool might be a better way to build it online.
+An Implementation of the Arduino/Sparkfun SD Card Library for the Photon Core.
 
 ![example](http://i.imgur.com/A3Au1B1.jpg)
 
